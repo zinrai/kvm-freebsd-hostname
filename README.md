@@ -66,4 +66,4 @@ $ ./kvm-freebsd-hostname -user freebsd -current freebsd -new freebsd-14-jail fre
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) for details.
+This project is licensed under the [MIT License](./LICENSE).
